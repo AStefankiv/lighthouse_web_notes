@@ -4,3 +4,7 @@
 
 ## Summary
 This is the repository of [Andrew Stefankiv](https://github.com/AStefankiv), the student of LHL Web-development bootcamp💻
+
+## Table Of Contents
+* Week 1
+  * Day 1
