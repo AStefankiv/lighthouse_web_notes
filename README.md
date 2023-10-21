@@ -3,5 +3,4 @@
 
 
 ## Summary
-This is the repository of Andrew Stefankiv, the student of LHL Web-development bootcamp💻
-[My profile](https://github.com/AStefankiv)
+This is the repository of [Andrew Stefankiv](https://github.com/AStefankiv), the student of LHL Web-development bootcamp💻
